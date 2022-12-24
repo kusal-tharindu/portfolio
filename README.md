@@ -67,7 +67,7 @@ Download directly from github.
 <!-- photo -->
 
 ### 2. Open code via IDE
-You start DIE and open the download floder(DTKfolio) with it and edit it with your details. I am using VS Code for this demo.
+You start DIE and open the download floder(portfolio-main) with it and edit it with your details. I am using VS Code for this demo.
 
 ### 3. Open the html file via your localhost and view
 
