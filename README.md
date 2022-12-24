@@ -1,4 +1,4 @@
-# dtkfolio ⚡️ [![GitHub](https://img.shields.io/github/license/kusal-tharindu/dtkfolio?color=blue)](https://github.com/cobiwave/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobiwave/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobiwave/simplefolio) 
+# dtkfolio ⚡️ [![GitHub](https://img.shields.io/github/license/kusal-tharindu/portfolio?color=blue)](https://github.com/kusal-tharindu/portfolio/blob/main/LICENSE) ![GitHub stars](https://img.shields.io/github/stars/kusal-tharindu/portfolio) ![GitHub forks](https://img.shields.io/github/forks/kusal-tharindu/portfolio) 
 ## A minimal portfolio template for Developers!
 
 <h2 align="center">
@@ -19,7 +19,7 @@ In this project I created personal portfolio website using HTML CSS and JavaScri
 ⚡️ Your can receive the contact form data on your google sheets\
 ⚡️ Well organized documentation
 
-To view the demo: **[click here](https://the-simplefolio.netlify.app/)**
+To view the demo: **[click here](https://kusal-tharindu.github.io/portfolio/)**
 
 ---
 
@@ -59,8 +59,11 @@ $ git clone https://github.com/kusal-tharindu/DTKfolio
 ```
 - Method-02
 
-Just download code as a zip file.
-
+Download directly from github.
+<h2 align="center">
+  <img src="images\download-2.png" alt="Simplefolio" width="300px" height="300px" />
+  <br>
+</h2>
 <!-- photo -->
 
 ### 2. Open code via IDE
@@ -68,7 +71,7 @@ You start DIE and open the download floder(DTKfolio) with it and edit it with yo
 
 ### 3. Open the html file via your localhost and view
 
-download **Live Server** extension. Once your server has started, open ***index.html*** file via Live Server extension.
+download [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension. Once your server has started, open ***index.html*** file via Live Server extension.
 
 <h2 align="center">
   <img src="images/demo.gif" alt="Simplefolio" width="600px" />
@@ -351,7 +354,7 @@ I highly recommend to use [Cloudflare pages](https://pages.cloudflare.com/) beca
 
 ## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/kusal-tharindu/portfolio/blob/main/LICENSE) file for details.
 
 ---
 ## Acknowledgments 🎁
